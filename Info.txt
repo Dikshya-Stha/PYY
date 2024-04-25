@@ -1,0 +1,7 @@
+100, Kathmandu,	East,	3,500000, Not Available
+101, Kritipur,	West,	6,800000, Available
+102, Bhaktapur,	North,	10,100000,Available
+103, Illam,	South,	8,500000, Not Available
+104, Sunsari,	West,	5,50000,  Available
+105, Morang,	East,	9,350000, Not Available
+106, Chitwan,	South,	2,250000, Not Available
